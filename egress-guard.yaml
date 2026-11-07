@@ -1,0 +1,44 @@
+# Egress Guard policy.
+#
+# This file is intentionally empty of settings: the plugin's built-in defaults apply.
+# Defaults: secrets redacted in tool arguments, tool results and replies; small counts
+# (1-4) in tables redacted in tool arguments and replies; record-level tables (an ID
+# column, more than 20 rows) noted in the audit log; shell uploads to hosts other than
+# localhost need your approval. Audit log: ~/.hermes/egress-guard/audit.jsonl
+# (masked values only).
+#
+# To change something, copy this file to ~/.hermes/egress-guard.yaml (or point
+# EGRESS_GUARD_POLICY at a file) and uncomment only what you want to change.
+# Anything you set wins over a preset and over the defaults.
+#
+# Modes, mildest to strictest: off | warn | redact | approve | block
+# Scopes: args (before a tool runs) | result (tool output, before the model sees it)
+#         | reply (the model's final answer)
+
+# preset: research-data      # small-cell threshold 10 on args/result/reply; uploads blocked
+# preset: dev                # secrets only (small-cell, microdata and network rules off)
+
+# fail_mode: closed          # if a check errors or an input is too large: block (default: open)
+# max_scan_bytes: 1048576    # larger strings are not scanned; fail_mode decides
+
+# audit:
+#   path: ~/.hermes/egress-guard/audit.jsonl
+#   enabled: true
+
+# allowlist:                 # regexes; a match on the flagged text drops that finding
+#   - "^test_fixture_"       # e.g. ignore values your test suite uses on purpose
+
+# rules:
+#   secrets:
+#     mode: redact
+#   smallcell:
+#     threshold: 10          # counts from min_value up to threshold-1 are hidden
+#     method: suppress       # suppress (default) | round: random rounding of every count to base 5
+#     scopes: [args, result, reply]   # add 'result' to hide small cells from the model too
+#   microdata:               # record-level tables: an ID-like column and more than max_rows rows
+#     mode: warn             # default warn = audit only; redact withholds the table
+#     max_rows: 20
+#   network:
+#     mode: approve
+#     match: any_host        # uploads (default) | any_host: also plain downloads/connections
+#     allowed_hosts: [localhost, 127.0.0.1, "::1", data.internal]

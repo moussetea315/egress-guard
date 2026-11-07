@@ -1,0 +1,30 @@
+# Unit tests on every push and pull request. No secrets are used; the only network access is
+# checking out this repository and installing pytest and PyYAML from PyPI.
+name: tests
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  pytest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.11", "3.12", "3.13"]
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Install test dependencies
+        run: python -m pip install "pytest>=8,<10" "PyYAML>=6.0,<7"
+      - name: Run tests
+        run: python -m pytest -q

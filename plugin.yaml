@@ -1,0 +1,8 @@
+name: egress-guard
+version: 0.2.0
+requires_hermes: ">=0.22.2"
+description: "Policy-driven guard for what leaves the agent: blocks credential and data exfiltration, and suppresses small counts in tables (statistical disclosure control)."
+author: "moussetea315"
+provides_hooks: [pre_tool_call, transform_tool_result, transform_llm_output]
+python_dependencies:
+  - "PyYAML>=6.0,<7"

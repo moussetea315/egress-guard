@@ -1,0 +1,801 @@
+record_id,region,age_band,outcome
+SYN-0001,Fraser Valley,0-17,Recovered
+SYN-0002,Interior,45-64,Recovered
+SYN-0003,Island,0-17,Recovered
+SYN-0004,North Coast,18-44,Recovered
+SYN-0005,North Coast,18-44,Recovered
+SYN-0006,Fraser Valley,18-44,Recovered
+SYN-0007,Island,0-17,Follow-up
+SYN-0008,Fraser Valley,18-44,Recovered
+SYN-0009,Island,18-44,Recovered
+SYN-0010,Interior,45-64,Recovered
+SYN-0011,Island,45-64,Recovered
+SYN-0012,Island,18-44,Recovered
+SYN-0013,Island,45-64,Follow-up
+SYN-0014,Fraser Valley,45-64,Recovered
+SYN-0015,Interior,18-44,Recovered
+SYN-0016,Interior,0-17,Recovered
+SYN-0017,Fraser Valley,18-44,Recovered
+SYN-0018,Interior,18-44,Follow-up
+SYN-0019,Fraser Valley,45-64,Recovered
+SYN-0020,Fraser Valley,18-44,Recovered
+SYN-0021,Island,45-64,Recovered
+SYN-0022,Fraser Valley,45-64,Follow-up
+SYN-0023,Interior,0-17,Recovered
+SYN-0024,Fraser Valley,18-44,Follow-up
+SYN-0025,Island,18-44,Recovered
+SYN-0026,Fraser Valley,65+,Recovered
+SYN-0027,Fraser Valley,18-44,Recovered
+SYN-0028,Fraser Valley,45-64,Follow-up
+SYN-0029,Fraser Valley,18-44,Referred
+SYN-0030,Fraser Valley,0-17,Recovered
+SYN-0031,Interior,45-64,Follow-up
+SYN-0032,Fraser Valley,0-17,Recovered
+SYN-0033,Peace Valley,18-44,Referred
+SYN-0034,Island,0-17,Recovered
+SYN-0035,Fraser Valley,18-44,Recovered
+SYN-0036,Fraser Valley,0-17,Recovered
+SYN-0037,Fraser Valley,65+,Follow-up
+SYN-0038,Fraser Valley,18-44,Recovered
+SYN-0039,Island,65+,Recovered
+SYN-0040,Fraser Valley,45-64,Recovered
+SYN-0041,Island,18-44,Follow-up
+SYN-0042,Fraser Valley,0-17,Recovered
+SYN-0043,North Coast,65+,Follow-up
+SYN-0044,Island,18-44,Recovered
+SYN-0045,Island,65+,Recovered
+SYN-0046,Fraser Valley,0-17,Follow-up
+SYN-0047,Island,0-17,Recovered
+SYN-0048,Fraser Valley,18-44,Follow-up
+SYN-0049,Fraser Valley,18-44,Recovered
+SYN-0050,Fraser Valley,18-44,Recovered
+SYN-0051,Peace Valley,45-64,Recovered
+SYN-0052,Fraser Valley,0-17,Recovered
+SYN-0053,Fraser Valley,45-64,Recovered
+SYN-0054,Interior,0-17,Recovered
+SYN-0055,Interior,65+,Follow-up
+SYN-0056,Interior,18-44,Recovered
+SYN-0057,Interior,0-17,Follow-up
+SYN-0058,Fraser Valley,18-44,Follow-up
+SYN-0059,Island,18-44,Recovered
+SYN-0060,Fraser Valley,18-44,Recovered
+SYN-0061,Fraser Valley,45-64,Referred
+SYN-0062,Interior,18-44,Recovered
+SYN-0063,Island,18-44,Recovered
+SYN-0064,Fraser Valley,18-44,Recovered
+SYN-0065,Interior,65+,Recovered
+SYN-0066,Island,45-64,Recovered
+SYN-0067,Peace Valley,45-64,Referred
+SYN-0068,Island,45-64,Recovered
+SYN-0069,Fraser Valley,18-44,Recovered
+SYN-0070,Interior,18-44,Referred
+SYN-0071,Fraser Valley,45-64,Recovered
+SYN-0072,Fraser Valley,65+,Referred
+SYN-0073,Fraser Valley,45-64,Recovered
+SYN-0074,Fraser Valley,65+,Recovered
+SYN-0075,Fraser Valley,45-64,Recovered
+SYN-0076,Fraser Valley,18-44,Follow-up
+SYN-0077,Interior,65+,Recovered
+SYN-0078,Interior,45-64,Recovered
+SYN-0079,Interior,0-17,Follow-up
+SYN-0080,Interior,45-64,Recovered
+SYN-0081,Fraser Valley,45-64,Recovered
+SYN-0082,Island,18-44,Recovered
+SYN-0083,Interior,18-44,Recovered
+SYN-0084,Fraser Valley,18-44,Follow-up
+SYN-0085,Interior,18-44,Referred
+SYN-0086,Peace Valley,0-17,Recovered
+SYN-0087,Fraser Valley,65+,Follow-up
+SYN-0088,Island,18-44,Recovered
+SYN-0089,Island,45-64,Recovered
+SYN-0090,Island,45-64,Recovered
+SYN-0091,Island,18-44,Recovered
+SYN-0092,Island,0-17,Recovered
+SYN-0093,Interior,45-64,Recovered
+SYN-0094,Fraser Valley,45-64,Recovered
+SYN-0095,Fraser Valley,18-44,Recovered
+SYN-0096,Island,45-64,Recovered
+SYN-0097,Fraser Valley,18-44,Recovered
+SYN-0098,Island,45-64,Recovered
+SYN-0099,Fraser Valley,45-64,Recovered
+SYN-0100,North Coast,0-17,Follow-up
+SYN-0101,Island,18-44,Follow-up
+SYN-0102,Fraser Valley,0-17,Recovered
+SYN-0103,Fraser Valley,65+,Follow-up
+SYN-0104,Island,65+,Recovered
+SYN-0105,Interior,0-17,Follow-up
+SYN-0106,Island,18-44,Recovered
+SYN-0107,Interior,65+,Follow-up
+SYN-0108,Island,45-64,Follow-up
+SYN-0109,North Coast,45-64,Recovered
+SYN-0110,Island,45-64,Follow-up
+SYN-0111,Island,18-44,Follow-up
+SYN-0112,Interior,65+,Follow-up
+SYN-0113,Interior,45-64,Recovered
+SYN-0114,Fraser Valley,45-64,Recovered
+SYN-0115,North Coast,18-44,Recovered
+SYN-0116,Island,65+,Recovered
+SYN-0117,Fraser Valley,18-44,Referred
+SYN-0118,Fraser Valley,65+,Recovered
+SYN-0119,Island,18-44,Referred
+SYN-0120,Fraser Valley,0-17,Recovered
+SYN-0121,Fraser Valley,18-44,Recovered
+SYN-0122,Fraser Valley,18-44,Recovered
+SYN-0123,Fraser Valley,45-64,Recovered
+SYN-0124,Island,18-44,Recovered
+SYN-0125,Fraser Valley,45-64,Recovered
+SYN-0126,Interior,45-64,Recovered
+SYN-0127,Fraser Valley,45-64,Recovered
+SYN-0128,Fraser Valley,18-44,Recovered
+SYN-0129,Fraser Valley,18-44,Recovered
+SYN-0130,Fraser Valley,65+,Recovered
+SYN-0131,Island,45-64,Recovered
+SYN-0132,Fraser Valley,0-17,Recovered
+SYN-0133,Fraser Valley,45-64,Recovered
+SYN-0134,Fraser Valley,18-44,Recovered
+SYN-0135,Fraser Valley,65+,Follow-up
+SYN-0136,Interior,0-17,Recovered
+SYN-0137,Fraser Valley,18-44,Follow-up
+SYN-0138,Island,45-64,Recovered
+SYN-0139,Interior,0-17,Recovered
+SYN-0140,Fraser Valley,45-64,Recovered
+SYN-0141,Fraser Valley,45-64,Recovered
+SYN-0142,Fraser Valley,18-44,Recovered
+SYN-0143,Fraser Valley,0-17,Follow-up
+SYN-0144,Island,0-17,Recovered
+SYN-0145,Interior,65+,Recovered
+SYN-0146,Interior,18-44,Follow-up
+SYN-0147,Fraser Valley,45-64,Recovered
+SYN-0148,Island,45-64,Referred
+SYN-0149,Island,45-64,Recovered
+SYN-0150,Fraser Valley,45-64,Recovered
+SYN-0151,Island,45-64,Recovered
+SYN-0152,Fraser Valley,18-44,Recovered
+SYN-0153,Island,18-44,Recovered
+SYN-0154,Fraser Valley,0-17,Recovered
+SYN-0155,Fraser Valley,18-44,Recovered
+SYN-0156,Interior,18-44,Recovered
+SYN-0157,Fraser Valley,0-17,Recovered
+SYN-0158,Fraser Valley,18-44,Recovered
+SYN-0159,Fraser Valley,65+,Recovered
+SYN-0160,Fraser Valley,65+,Follow-up
+SYN-0161,Fraser Valley,0-17,Recovered
+SYN-0162,Island,65+,Referred
+SYN-0163,Fraser Valley,45-64,Recovered
+SYN-0164,Fraser Valley,18-44,Recovered
+SYN-0165,Fraser Valley,0-17,Recovered
+SYN-0166,Fraser Valley,18-44,Recovered
+SYN-0167,Fraser Valley,0-17,Recovered
+SYN-0168,North Coast,18-44,Recovered
+SYN-0169,North Coast,45-64,Recovered
+SYN-0170,Fraser Valley,0-17,Recovered
+SYN-0171,Interior,18-44,Follow-up
+SYN-0172,Fraser Valley,45-64,Follow-up
+SYN-0173,Fraser Valley,0-17,Recovered
+SYN-0174,Fraser Valley,65+,Recovered
+SYN-0175,Fraser Valley,45-64,Recovered
+SYN-0176,Island,65+,Recovered
+SYN-0177,North Coast,18-44,Recovered
+SYN-0178,Fraser Valley,45-64,Recovered
+SYN-0179,Fraser Valley,45-64,Recovered
+SYN-0180,Fraser Valley,45-64,Recovered
+SYN-0181,Island,65+,Recovered
+SYN-0182,North Coast,18-44,Recovered
+SYN-0183,Island,18-44,Recovered
+SYN-0184,Interior,45-64,Recovered
+SYN-0185,Interior,45-64,Follow-up
+SYN-0186,Fraser Valley,0-17,Referred
+SYN-0187,Island,18-44,Recovered
+SYN-0188,Fraser Valley,18-44,Recovered
+SYN-0189,Island,45-64,Recovered
+SYN-0190,Island,45-64,Follow-up
+SYN-0191,Fraser Valley,18-44,Recovered
+SYN-0192,Island,18-44,Follow-up
+SYN-0193,Fraser Valley,18-44,Recovered
+SYN-0194,Fraser Valley,18-44,Follow-up
+SYN-0195,Island,0-17,Follow-up
+SYN-0196,Interior,18-44,Recovered
+SYN-0197,Fraser Valley,0-17,Follow-up
+SYN-0198,Interior,18-44,Follow-up
+SYN-0199,Fraser Valley,65+,Recovered
+SYN-0200,Fraser Valley,0-17,Follow-up
+SYN-0201,Interior,45-64,Recovered
+SYN-0202,Island,45-64,Recovered
+SYN-0203,Fraser Valley,45-64,Recovered
+SYN-0204,Interior,45-64,Recovered
+SYN-0205,Fraser Valley,18-44,Recovered
+SYN-0206,Fraser Valley,45-64,Recovered
+SYN-0207,Fraser Valley,18-44,Recovered
+SYN-0208,Interior,18-44,Recovered
+SYN-0209,Fraser Valley,45-64,Recovered
+SYN-0210,Interior,18-44,Recovered
+SYN-0211,Island,18-44,Recovered
+SYN-0212,Interior,18-44,Recovered
+SYN-0213,Interior,0-17,Recovered
+SYN-0214,Fraser Valley,65+,Recovered
+SYN-0215,Fraser Valley,0-17,Follow-up
+SYN-0216,Fraser Valley,65+,Recovered
+SYN-0217,Fraser Valley,18-44,Recovered
+SYN-0218,Interior,65+,Recovered
+SYN-0219,Island,18-44,Recovered
+SYN-0220,Fraser Valley,0-17,Recovered
+SYN-0221,Fraser Valley,18-44,Referred
+SYN-0222,Interior,45-64,Recovered
+SYN-0223,Island,18-44,Recovered
+SYN-0224,Fraser Valley,18-44,Follow-up
+SYN-0225,Peace Valley,18-44,Recovered
+SYN-0226,Fraser Valley,45-64,Follow-up
+SYN-0227,Interior,18-44,Recovered
+SYN-0228,Interior,18-44,Recovered
+SYN-0229,North Coast,18-44,Recovered
+SYN-0230,Fraser Valley,18-44,Recovered
+SYN-0231,Fraser Valley,18-44,Recovered
+SYN-0232,Island,45-64,Recovered
+SYN-0233,Fraser Valley,65+,Recovered
+SYN-0234,Fraser Valley,45-64,Follow-up
+SYN-0235,Island,0-17,Recovered
+SYN-0236,Fraser Valley,45-64,Recovered
+SYN-0237,Fraser Valley,0-17,Recovered
+SYN-0238,Fraser Valley,65+,Recovered
+SYN-0239,Fraser Valley,0-17,Recovered
+SYN-0240,Fraser Valley,18-44,Recovered
+SYN-0241,Interior,65+,Follow-up
+SYN-0242,Fraser Valley,65+,Referred
+SYN-0243,Fraser Valley,18-44,Recovered
+SYN-0244,Island,18-44,Recovered
+SYN-0245,Island,18-44,Recovered
+SYN-0246,Fraser Valley,18-44,Recovered
+SYN-0247,Fraser Valley,18-44,Recovered
+SYN-0248,Island,18-44,Recovered
+SYN-0249,Fraser Valley,65+,Follow-up
+SYN-0250,Fraser Valley,18-44,Recovered
+SYN-0251,Fraser Valley,65+,Recovered
+SYN-0252,Fraser Valley,65+,Recovered
+SYN-0253,Fraser Valley,18-44,Recovered
+SYN-0254,Fraser Valley,45-64,Recovered
+SYN-0255,Island,18-44,Recovered
+SYN-0256,Island,18-44,Recovered
+SYN-0257,Interior,65+,Recovered
+SYN-0258,Interior,18-44,Recovered
+SYN-0259,Fraser Valley,0-17,Referred
+SYN-0260,Island,18-44,Recovered
+SYN-0261,Island,18-44,Recovered
+SYN-0262,Fraser Valley,18-44,Follow-up
+SYN-0263,Island,18-44,Recovered
+SYN-0264,Fraser Valley,65+,Recovered
+SYN-0265,Island,65+,Recovered
+SYN-0266,Island,18-44,Follow-up
+SYN-0267,Fraser Valley,45-64,Recovered
+SYN-0268,Fraser Valley,45-64,Referred
+SYN-0269,Fraser Valley,0-17,Recovered
+SYN-0270,Fraser Valley,45-64,Recovered
+SYN-0271,Fraser Valley,18-44,Recovered
+SYN-0272,Fraser Valley,45-64,Recovered
+SYN-0273,Island,0-17,Recovered
+SYN-0274,Fraser Valley,45-64,Recovered
+SYN-0275,Fraser Valley,45-64,Referred
+SYN-0276,Fraser Valley,0-17,Recovered
+SYN-0277,Fraser Valley,65+,Follow-up
+SYN-0278,Fraser Valley,18-44,Recovered
+SYN-0279,Fraser Valley,18-44,Recovered
+SYN-0280,Interior,18-44,Referred
+SYN-0281,Fraser Valley,45-64,Recovered
+SYN-0282,Island,65+,Follow-up
+SYN-0283,Fraser Valley,18-44,Recovered
+SYN-0284,Island,65+,Recovered
+SYN-0285,Interior,45-64,Follow-up
+SYN-0286,Peace Valley,45-64,Recovered
+SYN-0287,Interior,45-64,Follow-up
+SYN-0288,Fraser Valley,45-64,Follow-up
+SYN-0289,North Coast,45-64,Recovered
+SYN-0290,Fraser Valley,0-17,Recovered
+SYN-0291,Fraser Valley,45-64,Recovered
+SYN-0292,Interior,65+,Recovered
+SYN-0293,Interior,65+,Recovered
+SYN-0294,Fraser Valley,18-44,Recovered
+SYN-0295,North Coast,45-64,Follow-up
+SYN-0296,Fraser Valley,18-44,Recovered
+SYN-0297,Fraser Valley,45-64,Recovered
+SYN-0298,Fraser Valley,18-44,Follow-up
+SYN-0299,Interior,18-44,Recovered
+SYN-0300,Interior,45-64,Recovered
+SYN-0301,Peace Valley,18-44,Referred
+SYN-0302,Fraser Valley,18-44,Recovered
+SYN-0303,Fraser Valley,45-64,Recovered
+SYN-0304,Fraser Valley,18-44,Follow-up
+SYN-0305,Fraser Valley,45-64,Recovered
+SYN-0306,Fraser Valley,45-64,Recovered
+SYN-0307,Fraser Valley,45-64,Recovered
+SYN-0308,Island,45-64,Follow-up
+SYN-0309,Fraser Valley,18-44,Recovered
+SYN-0310,Fraser Valley,45-64,Recovered
+SYN-0311,Fraser Valley,45-64,Recovered
+SYN-0312,Interior,18-44,Referred
+SYN-0313,Fraser Valley,65+,Follow-up
+SYN-0314,Fraser Valley,45-64,Recovered
+SYN-0315,Island,45-64,Recovered
+SYN-0316,Interior,65+,Recovered
+SYN-0317,Island,65+,Recovered
+SYN-0318,Island,65+,Follow-up
+SYN-0319,Fraser Valley,45-64,Recovered
+SYN-0320,Fraser Valley,18-44,Recovered
+SYN-0321,Fraser Valley,45-64,Follow-up
+SYN-0322,Island,0-17,Recovered
+SYN-0323,North Coast,65+,Recovered
+SYN-0324,Island,18-44,Recovered
+SYN-0325,Island,65+,Recovered
+SYN-0326,Fraser Valley,0-17,Follow-up
+SYN-0327,Fraser Valley,18-44,Recovered
+SYN-0328,Island,0-17,Recovered
+SYN-0329,Fraser Valley,45-64,Follow-up
+SYN-0330,Fraser Valley,45-64,Recovered
+SYN-0331,Fraser Valley,0-17,Recovered
+SYN-0332,Fraser Valley,65+,Recovered
+SYN-0333,Fraser Valley,18-44,Referred
+SYN-0334,Island,0-17,Recovered
+SYN-0335,Fraser Valley,65+,Recovered
+SYN-0336,Fraser Valley,18-44,Recovered
+SYN-0337,Island,18-44,Recovered
+SYN-0338,Fraser Valley,45-64,Recovered
+SYN-0339,Island,18-44,Recovered
+SYN-0340,Fraser Valley,0-17,Follow-up
+SYN-0341,Interior,18-44,Follow-up
+SYN-0342,Fraser Valley,0-17,Follow-up
+SYN-0343,North Coast,65+,Recovered
+SYN-0344,Interior,18-44,Recovered
+SYN-0345,Fraser Valley,0-17,Recovered
+SYN-0346,Island,18-44,Recovered
+SYN-0347,Interior,0-17,Recovered
+SYN-0348,Fraser Valley,45-64,Recovered
+SYN-0349,Island,18-44,Recovered
+SYN-0350,Fraser Valley,65+,Recovered
+SYN-0351,Island,65+,Recovered
+SYN-0352,Fraser Valley,65+,Recovered
+SYN-0353,Fraser Valley,18-44,Recovered
+SYN-0354,Fraser Valley,65+,Recovered
+SYN-0355,Interior,45-64,Recovered
+SYN-0356,Fraser Valley,45-64,Recovered
+SYN-0357,Fraser Valley,65+,Recovered
+SYN-0358,Fraser Valley,45-64,Recovered
+SYN-0359,Fraser Valley,65+,Recovered
+SYN-0360,Island,45-64,Recovered
+SYN-0361,Fraser Valley,18-44,Recovered
+SYN-0362,Fraser Valley,18-44,Recovered
+SYN-0363,Fraser Valley,45-64,Recovered
+SYN-0364,Interior,65+,Recovered
+SYN-0365,Island,0-17,Recovered
+SYN-0366,Fraser Valley,45-64,Recovered
+SYN-0367,Fraser Valley,45-64,Recovered
+SYN-0368,Interior,18-44,Recovered
+SYN-0369,Island,65+,Recovered
+SYN-0370,Island,45-64,Recovered
+SYN-0371,Fraser Valley,18-44,Recovered
+SYN-0372,Interior,0-17,Follow-up
+SYN-0373,Fraser Valley,45-64,Recovered
+SYN-0374,Island,45-64,Referred
+SYN-0375,Island,45-64,Recovered
+SYN-0376,North Coast,65+,Follow-up
+SYN-0377,Fraser Valley,18-44,Recovered
+SYN-0378,Fraser Valley,18-44,Recovered
+SYN-0379,Island,45-64,Recovered
+SYN-0380,Interior,45-64,Recovered
+SYN-0381,Fraser Valley,18-44,Recovered
+SYN-0382,Fraser Valley,18-44,Recovered
+SYN-0383,Island,45-64,Recovered
+SYN-0384,Interior,18-44,Recovered
+SYN-0385,Fraser Valley,18-44,Recovered
+SYN-0386,Fraser Valley,18-44,Recovered
+SYN-0387,Island,0-17,Recovered
+SYN-0388,Fraser Valley,45-64,Recovered
+SYN-0389,Fraser Valley,0-17,Recovered
+SYN-0390,Fraser Valley,0-17,Recovered
+SYN-0391,Interior,0-17,Recovered
+SYN-0392,Fraser Valley,0-17,Recovered
+SYN-0393,Interior,18-44,Recovered
+SYN-0394,Fraser Valley,45-64,Follow-up
+SYN-0395,Interior,65+,Recovered
+SYN-0396,North Coast,65+,Follow-up
+SYN-0397,Fraser Valley,45-64,Recovered
+SYN-0398,Fraser Valley,0-17,Recovered
+SYN-0399,Fraser Valley,45-64,Recovered
+SYN-0400,Island,65+,Recovered
+SYN-0401,Island,18-44,Recovered
+SYN-0402,Fraser Valley,18-44,Recovered
+SYN-0403,Fraser Valley,18-44,Recovered
+SYN-0404,Fraser Valley,0-17,Recovered
+SYN-0405,Island,18-44,Recovered
+SYN-0406,Island,45-64,Recovered
+SYN-0407,Interior,18-44,Recovered
+SYN-0408,Island,45-64,Recovered
+SYN-0409,Island,18-44,Follow-up
+SYN-0410,Island,18-44,Follow-up
+SYN-0411,Fraser Valley,45-64,Recovered
+SYN-0412,Island,45-64,Recovered
+SYN-0413,Interior,18-44,Recovered
+SYN-0414,Fraser Valley,0-17,Recovered
+SYN-0415,Fraser Valley,18-44,Recovered
+SYN-0416,Island,0-17,Follow-up
+SYN-0417,Island,45-64,Recovered
+SYN-0418,Fraser Valley,45-64,Follow-up
+SYN-0419,Island,18-44,Follow-up
+SYN-0420,Fraser Valley,18-44,Recovered
+SYN-0421,Interior,0-17,Recovered
+SYN-0422,Island,18-44,Recovered
+SYN-0423,Fraser Valley,18-44,Recovered
+SYN-0424,Fraser Valley,18-44,Recovered
+SYN-0425,Interior,18-44,Recovered
+SYN-0426,Fraser Valley,18-44,Recovered
+SYN-0427,Island,45-64,Recovered
+SYN-0428,Interior,45-64,Recovered
+SYN-0429,Fraser Valley,45-64,Follow-up
+SYN-0430,Island,18-44,Recovered
+SYN-0431,Interior,18-44,Referred
+SYN-0432,Fraser Valley,18-44,Recovered
+SYN-0433,Island,18-44,Recovered
+SYN-0434,Island,45-64,Recovered
+SYN-0435,Island,45-64,Recovered
+SYN-0436,Fraser Valley,45-64,Recovered
+SYN-0437,Fraser Valley,18-44,Recovered
+SYN-0438,Interior,65+,Recovered
+SYN-0439,Interior,0-17,Recovered
+SYN-0440,Island,0-17,Follow-up
+SYN-0441,Island,65+,Recovered
+SYN-0442,Fraser Valley,45-64,Recovered
+SYN-0443,Fraser Valley,18-44,Follow-up
+SYN-0444,Island,45-64,Recovered
+SYN-0445,Fraser Valley,18-44,Recovered
+SYN-0446,Interior,18-44,Recovered
+SYN-0447,Fraser Valley,18-44,Recovered
+SYN-0448,Fraser Valley,45-64,Recovered
+SYN-0449,Island,18-44,Follow-up
+SYN-0450,Island,18-44,Recovered
+SYN-0451,Fraser Valley,18-44,Referred
+SYN-0452,Island,45-64,Recovered
+SYN-0453,Fraser Valley,45-64,Follow-up
+SYN-0454,Fraser Valley,0-17,Follow-up
+SYN-0455,Island,18-44,Follow-up
+SYN-0456,Fraser Valley,65+,Recovered
+SYN-0457,Fraser Valley,65+,Recovered
+SYN-0458,Fraser Valley,18-44,Recovered
+SYN-0459,Interior,18-44,Recovered
+SYN-0460,Peace Valley,18-44,Recovered
+SYN-0461,Island,45-64,Recovered
+SYN-0462,Island,0-17,Recovered
+SYN-0463,Island,45-64,Recovered
+SYN-0464,Fraser Valley,18-44,Recovered
+SYN-0465,Interior,18-44,Follow-up
+SYN-0466,Fraser Valley,45-64,Recovered
+SYN-0467,Interior,18-44,Recovered
+SYN-0468,North Coast,18-44,Follow-up
+SYN-0469,Fraser Valley,0-17,Follow-up
+SYN-0470,Fraser Valley,0-17,Recovered
+SYN-0471,Interior,0-17,Recovered
+SYN-0472,Fraser Valley,18-44,Recovered
+SYN-0473,Fraser Valley,0-17,Referred
+SYN-0474,Interior,18-44,Recovered
+SYN-0475,Island,45-64,Recovered
+SYN-0476,Fraser Valley,45-64,Referred
+SYN-0477,Fraser Valley,0-17,Follow-up
+SYN-0478,Fraser Valley,45-64,Recovered
+SYN-0479,Island,45-64,Recovered
+SYN-0480,North Coast,18-44,Follow-up
+SYN-0481,Interior,45-64,Recovered
+SYN-0482,Fraser Valley,45-64,Follow-up
+SYN-0483,Interior,45-64,Recovered
+SYN-0484,Fraser Valley,0-17,Recovered
+SYN-0485,North Coast,65+,Recovered
+SYN-0486,Island,18-44,Recovered
+SYN-0487,Island,18-44,Recovered
+SYN-0488,Island,65+,Recovered
+SYN-0489,Interior,18-44,Follow-up
+SYN-0490,Fraser Valley,65+,Recovered
+SYN-0491,Island,18-44,Recovered
+SYN-0492,Island,18-44,Follow-up
+SYN-0493,Fraser Valley,0-17,Recovered
+SYN-0494,Island,18-44,Recovered
+SYN-0495,Interior,45-64,Recovered
+SYN-0496,Fraser Valley,18-44,Recovered
+SYN-0497,Fraser Valley,0-17,Follow-up
+SYN-0498,Fraser Valley,65+,Recovered
+SYN-0499,Island,65+,Recovered
+SYN-0500,Fraser Valley,18-44,Follow-up
+SYN-0501,Fraser Valley,65+,Recovered
+SYN-0502,Fraser Valley,45-64,Recovered
+SYN-0503,Interior,45-64,Recovered
+SYN-0504,Fraser Valley,45-64,Recovered
+SYN-0505,Fraser Valley,65+,Recovered
+SYN-0506,Island,45-64,Recovered
+SYN-0507,Fraser Valley,45-64,Recovered
+SYN-0508,Interior,45-64,Recovered
+SYN-0509,Fraser Valley,45-64,Recovered
+SYN-0510,Fraser Valley,18-44,Referred
+SYN-0511,Fraser Valley,65+,Recovered
+SYN-0512,Interior,65+,Recovered
+SYN-0513,Island,18-44,Recovered
+SYN-0514,Fraser Valley,45-64,Recovered
+SYN-0515,Fraser Valley,0-17,Recovered
+SYN-0516,Island,65+,Recovered
+SYN-0517,Island,45-64,Follow-up
+SYN-0518,Fraser Valley,0-17,Recovered
+SYN-0519,Interior,45-64,Recovered
+SYN-0520,Fraser Valley,18-44,Follow-up
+SYN-0521,Fraser Valley,45-64,Recovered
+SYN-0522,Fraser Valley,65+,Recovered
+SYN-0523,Fraser Valley,45-64,Follow-up
+SYN-0524,Interior,65+,Recovered
+SYN-0525,Fraser Valley,45-64,Recovered
+SYN-0526,Island,45-64,Recovered
+SYN-0527,Interior,65+,Recovered
+SYN-0528,Island,0-17,Recovered
+SYN-0529,Interior,18-44,Recovered
+SYN-0530,Fraser Valley,18-44,Follow-up
+SYN-0531,Island,45-64,Recovered
+SYN-0532,Fraser Valley,45-64,Recovered
+SYN-0533,Fraser Valley,18-44,Recovered
+SYN-0534,Interior,65+,Recovered
+SYN-0535,Fraser Valley,45-64,Recovered
+SYN-0536,Island,45-64,Follow-up
+SYN-0537,North Coast,0-17,Recovered
+SYN-0538,Fraser Valley,45-64,Follow-up
+SYN-0539,Fraser Valley,45-64,Recovered
+SYN-0540,Fraser Valley,18-44,Referred
+SYN-0541,Fraser Valley,45-64,Recovered
+SYN-0542,Fraser Valley,0-17,Recovered
+SYN-0543,Fraser Valley,18-44,Recovered
+SYN-0544,Fraser Valley,18-44,Recovered
+SYN-0545,Fraser Valley,65+,Referred
+SYN-0546,Interior,18-44,Recovered
+SYN-0547,Fraser Valley,18-44,Recovered
+SYN-0548,Interior,0-17,Recovered
+SYN-0549,Fraser Valley,45-64,Recovered
+SYN-0550,Island,18-44,Recovered
+SYN-0551,Fraser Valley,18-44,Follow-up
+SYN-0552,Fraser Valley,18-44,Recovered
+SYN-0553,Fraser Valley,0-17,Follow-up
+SYN-0554,Fraser Valley,65+,Recovered
+SYN-0555,Fraser Valley,0-17,Recovered
+SYN-0556,Island,45-64,Recovered
+SYN-0557,Fraser Valley,45-64,Recovered
+SYN-0558,Island,45-64,Follow-up
+SYN-0559,Fraser Valley,18-44,Recovered
+SYN-0560,Interior,45-64,Recovered
+SYN-0561,Fraser Valley,45-64,Recovered
+SYN-0562,Island,45-64,Recovered
+SYN-0563,Island,18-44,Follow-up
+SYN-0564,Fraser Valley,65+,Follow-up
+SYN-0565,Interior,18-44,Recovered
+SYN-0566,North Coast,0-17,Recovered
+SYN-0567,Fraser Valley,18-44,Recovered
+SYN-0568,Fraser Valley,18-44,Recovered
+SYN-0569,Interior,65+,Recovered
+SYN-0570,Fraser Valley,18-44,Follow-up
+SYN-0571,Fraser Valley,45-64,Recovered
+SYN-0572,Island,18-44,Recovered
+SYN-0573,Island,45-64,Follow-up
+SYN-0574,Fraser Valley,45-64,Recovered
+SYN-0575,Fraser Valley,65+,Follow-up
+SYN-0576,Island,45-64,Recovered
+SYN-0577,Fraser Valley,18-44,Recovered
+SYN-0578,Fraser Valley,45-64,Recovered
+SYN-0579,Fraser Valley,0-17,Follow-up
+SYN-0580,Interior,0-17,Recovered
+SYN-0581,Interior,45-64,Recovered
+SYN-0582,Island,65+,Follow-up
+SYN-0583,Fraser Valley,0-17,Recovered
+SYN-0584,Interior,18-44,Recovered
+SYN-0585,Fraser Valley,18-44,Recovered
+SYN-0586,Island,18-44,Recovered
+SYN-0587,Island,45-64,Recovered
+SYN-0588,Fraser Valley,45-64,Recovered
+SYN-0589,Interior,45-64,Recovered
+SYN-0590,Island,18-44,Recovered
+SYN-0591,Interior,45-64,Recovered
+SYN-0592,Fraser Valley,65+,Follow-up
+SYN-0593,Fraser Valley,0-17,Recovered
+SYN-0594,Fraser Valley,65+,Follow-up
+SYN-0595,Island,45-64,Recovered
+SYN-0596,Fraser Valley,45-64,Recovered
+SYN-0597,Fraser Valley,18-44,Recovered
+SYN-0598,Interior,18-44,Follow-up
+SYN-0599,Fraser Valley,0-17,Recovered
+SYN-0600,Fraser Valley,18-44,Recovered
+SYN-0601,Fraser Valley,45-64,Recovered
+SYN-0602,Fraser Valley,45-64,Recovered
+SYN-0603,Island,0-17,Recovered
+SYN-0604,Island,18-44,Follow-up
+SYN-0605,Island,18-44,Recovered
+SYN-0606,Island,18-44,Recovered
+SYN-0607,Island,0-17,Recovered
+SYN-0608,Fraser Valley,45-64,Follow-up
+SYN-0609,Island,18-44,Follow-up
+SYN-0610,Interior,65+,Referred
+SYN-0611,Fraser Valley,18-44,Follow-up
+SYN-0612,Island,65+,Follow-up
+SYN-0613,North Coast,45-64,Recovered
+SYN-0614,Island,18-44,Referred
+SYN-0615,Fraser Valley,18-44,Follow-up
+SYN-0616,Island,18-44,Recovered
+SYN-0617,Interior,18-44,Recovered
+SYN-0618,Fraser Valley,18-44,Recovered
+SYN-0619,Island,45-64,Follow-up
+SYN-0620,Interior,65+,Follow-up
+SYN-0621,Island,18-44,Recovered
+SYN-0622,Fraser Valley,18-44,Recovered
+SYN-0623,Fraser Valley,18-44,Recovered
+SYN-0624,Interior,45-64,Referred
+SYN-0625,Fraser Valley,45-64,Recovered
+SYN-0626,Fraser Valley,45-64,Recovered
+SYN-0627,Interior,18-44,Recovered
+SYN-0628,Fraser Valley,65+,Recovered
+SYN-0629,Fraser Valley,0-17,Follow-up
+SYN-0630,Fraser Valley,45-64,Recovered
+SYN-0631,Interior,18-44,Recovered
+SYN-0632,Fraser Valley,18-44,Recovered
+SYN-0633,Fraser Valley,18-44,Recovered
+SYN-0634,Interior,18-44,Follow-up
+SYN-0635,Island,0-17,Recovered
+SYN-0636,Fraser Valley,0-17,Recovered
+SYN-0637,Interior,18-44,Recovered
+SYN-0638,Fraser Valley,0-17,Recovered
+SYN-0639,Fraser Valley,0-17,Recovered
+SYN-0640,Fraser Valley,0-17,Recovered
+SYN-0641,Island,18-44,Recovered
+SYN-0642,Fraser Valley,0-17,Recovered
+SYN-0643,Island,45-64,Recovered
+SYN-0644,Island,45-64,Recovered
+SYN-0645,North Coast,18-44,Recovered
+SYN-0646,Peace Valley,65+,Recovered
+SYN-0647,Island,0-17,Recovered
+SYN-0648,Island,45-64,Referred
+SYN-0649,Fraser Valley,18-44,Referred
+SYN-0650,Fraser Valley,65+,Follow-up
+SYN-0651,Fraser Valley,45-64,Recovered
+SYN-0652,Fraser Valley,45-64,Recovered
+SYN-0653,Interior,18-44,Recovered
+SYN-0654,Fraser Valley,18-44,Recovered
+SYN-0655,North Coast,18-44,Recovered
+SYN-0656,Fraser Valley,18-44,Follow-up
+SYN-0657,Interior,18-44,Recovered
+SYN-0658,Island,45-64,Recovered
+SYN-0659,Island,18-44,Follow-up
+SYN-0660,Island,0-17,Recovered
+SYN-0661,Interior,0-17,Recovered
+SYN-0662,Fraser Valley,0-17,Recovered
+SYN-0663,Fraser Valley,18-44,Recovered
+SYN-0664,Island,0-17,Recovered
+SYN-0665,Fraser Valley,45-64,Recovered
+SYN-0666,Fraser Valley,45-64,Recovered
+SYN-0667,Fraser Valley,18-44,Recovered
+SYN-0668,Fraser Valley,18-44,Recovered
+SYN-0669,Interior,65+,Follow-up
+SYN-0670,Island,45-64,Recovered
+SYN-0671,Fraser Valley,65+,Follow-up
+SYN-0672,Fraser Valley,45-64,Recovered
+SYN-0673,Fraser Valley,0-17,Recovered
+SYN-0674,Island,18-44,Follow-up
+SYN-0675,Fraser Valley,45-64,Follow-up
+SYN-0676,Island,45-64,Referred
+SYN-0677,Fraser Valley,0-17,Recovered
+SYN-0678,Interior,45-64,Follow-up
+SYN-0679,Island,0-17,Recovered
+SYN-0680,Interior,18-44,Recovered
+SYN-0681,Fraser Valley,65+,Recovered
+SYN-0682,Island,45-64,Recovered
+SYN-0683,Fraser Valley,65+,Recovered
+SYN-0684,Island,0-17,Follow-up
+SYN-0685,Island,0-17,Referred
+SYN-0686,Fraser Valley,18-44,Recovered
+SYN-0687,Interior,65+,Recovered
+SYN-0688,Island,18-44,Recovered
+SYN-0689,Fraser Valley,18-44,Recovered
+SYN-0690,Fraser Valley,0-17,Referred
+SYN-0691,Fraser Valley,45-64,Follow-up
+SYN-0692,Fraser Valley,18-44,Recovered
+SYN-0693,Interior,0-17,Recovered
+SYN-0694,Island,45-64,Recovered
+SYN-0695,Interior,18-44,Recovered
+SYN-0696,Island,18-44,Recovered
+SYN-0697,Fraser Valley,18-44,Follow-up
+SYN-0698,Island,45-64,Recovered
+SYN-0699,Interior,45-64,Recovered
+SYN-0700,Fraser Valley,18-44,Follow-up
+SYN-0701,Fraser Valley,45-64,Recovered
+SYN-0702,North Coast,45-64,Follow-up
+SYN-0703,Fraser Valley,45-64,Recovered
+SYN-0704,Island,18-44,Recovered
+SYN-0705,North Coast,18-44,Recovered
+SYN-0706,Fraser Valley,45-64,Recovered
+SYN-0707,Fraser Valley,18-44,Recovered
+SYN-0708,Fraser Valley,0-17,Recovered
+SYN-0709,Fraser Valley,65+,Recovered
+SYN-0710,Island,45-64,Follow-up
+SYN-0711,Island,0-17,Recovered
+SYN-0712,Interior,18-44,Recovered
+SYN-0713,Island,18-44,Recovered
+SYN-0714,Fraser Valley,18-44,Recovered
+SYN-0715,Peace Valley,18-44,Recovered
+SYN-0716,Island,45-64,Follow-up
+SYN-0717,Island,0-17,Recovered
+SYN-0718,Fraser Valley,0-17,Recovered
+SYN-0719,Interior,18-44,Recovered
+SYN-0720,Island,45-64,Follow-up
+SYN-0721,Interior,18-44,Recovered
+SYN-0722,Interior,65+,Follow-up
+SYN-0723,Fraser Valley,0-17,Recovered
+SYN-0724,Island,65+,Recovered
+SYN-0725,North Coast,65+,Recovered
+SYN-0726,Island,45-64,Follow-up
+SYN-0727,Fraser Valley,18-44,Recovered
+SYN-0728,Interior,18-44,Follow-up
+SYN-0729,Fraser Valley,65+,Recovered
+SYN-0730,Island,0-17,Referred
+SYN-0731,Fraser Valley,18-44,Referred
+SYN-0732,Interior,18-44,Follow-up
+SYN-0733,Fraser Valley,45-64,Referred
+SYN-0734,Fraser Valley,45-64,Recovered
+SYN-0735,Fraser Valley,65+,Recovered
+SYN-0736,Fraser Valley,65+,Recovered
+SYN-0737,Fraser Valley,45-64,Recovered
+SYN-0738,Fraser Valley,45-64,Recovered
+SYN-0739,Interior,18-44,Recovered
+SYN-0740,Fraser Valley,45-64,Recovered
+SYN-0741,Interior,0-17,Recovered
+SYN-0742,Fraser Valley,18-44,Recovered
+SYN-0743,Interior,18-44,Recovered
+SYN-0744,Fraser Valley,0-17,Recovered
+SYN-0745,Interior,45-64,Recovered
+SYN-0746,Fraser Valley,18-44,Recovered
+SYN-0747,Interior,65+,Follow-up
+SYN-0748,Island,45-64,Recovered
+SYN-0749,Fraser Valley,0-17,Recovered
+SYN-0750,Fraser Valley,0-17,Recovered
+SYN-0751,Fraser Valley,18-44,Recovered
+SYN-0752,Fraser Valley,18-44,Recovered
+SYN-0753,Fraser Valley,18-44,Recovered
+SYN-0754,Fraser Valley,65+,Recovered
+SYN-0755,Fraser Valley,45-64,Recovered
+SYN-0756,Fraser Valley,45-64,Follow-up
+SYN-0757,Island,0-17,Recovered
+SYN-0758,Island,18-44,Recovered
+SYN-0759,Island,65+,Recovered
+SYN-0760,Fraser Valley,18-44,Recovered
+SYN-0761,Interior,18-44,Follow-up
+SYN-0762,Fraser Valley,0-17,Recovered
+SYN-0763,Fraser Valley,18-44,Recovered
+SYN-0764,Fraser Valley,65+,Recovered
+SYN-0765,Fraser Valley,18-44,Recovered
+SYN-0766,Fraser Valley,45-64,Follow-up
+SYN-0767,Fraser Valley,18-44,Recovered
+SYN-0768,Interior,45-64,Recovered
+SYN-0769,Island,0-17,Referred
+SYN-0770,Fraser Valley,18-44,Recovered
+SYN-0771,Island,45-64,Recovered
+SYN-0772,Island,18-44,Follow-up
+SYN-0773,Fraser Valley,45-64,Recovered
+SYN-0774,Island,45-64,Recovered
+SYN-0775,Fraser Valley,0-17,Referred
+SYN-0776,Fraser Valley,18-44,Follow-up
+SYN-0777,Island,18-44,Recovered
+SYN-0778,Fraser Valley,18-44,Recovered
+SYN-0779,Fraser Valley,45-64,Recovered
+SYN-0780,Fraser Valley,45-64,Recovered
+SYN-0781,Fraser Valley,18-44,Recovered
+SYN-0782,Interior,18-44,Referred
+SYN-0783,Interior,65+,Recovered
+SYN-0784,Fraser Valley,18-44,Recovered
+SYN-0785,Fraser Valley,18-44,Recovered
+SYN-0786,Fraser Valley,18-44,Recovered
+SYN-0787,Island,0-17,Follow-up
+SYN-0788,Fraser Valley,45-64,Recovered
+SYN-0789,Island,18-44,Recovered
+SYN-0790,Interior,45-64,Referred
+SYN-0791,Interior,18-44,Recovered
+SYN-0792,Fraser Valley,18-44,Recovered
+SYN-0793,Fraser Valley,18-44,Recovered
+SYN-0794,Fraser Valley,45-64,Recovered
+SYN-0795,Island,45-64,Recovered
+SYN-0796,Interior,65+,Recovered
+SYN-0797,Fraser Valley,18-44,Recovered
+SYN-0798,Island,18-44,Recovered
+SYN-0799,Fraser Valley,45-64,Recovered
+SYN-0800,Fraser Valley,45-64,Recovered
