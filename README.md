@@ -1,6 +1,8 @@
 # Egress Guard
 
-**Why.** AI agents leak data by accident, not malice. Asked to summarize a clinic dataset for a colleague, an agent may include a table showing three patients in a small town (enough for neighbours to work out who they are), upload the raw file to a paste site to "share" it, or paste an API key into a command. Everything that leaves the agent (commands, uploads, messages, replies) is *egress*. Egress Guard checks it in code, outside the model, before it leaves, so the protection doesn't depend on the model remembering the rules.
+*Automated output vetting for AI agents.*
+
+**Why.** AI agents leak data by accident, not malice. Asked to summarize a clinic dataset for a colleague, an agent may include a table showing three patients in a small town (enough for neighbours to work out who they are), upload the raw file to a paste site to "share" it, or paste an API key into a command. Everything that leaves the agent (commands, uploads, messages, replies) is *egress*. Egress Guard checks it in code, outside the model, before it leaves, so the protection doesn't depend on the model remembering the rules. Research data centres call this check **output vetting** (also known as output checking or disclosure review): every table and result is reviewed before it leaves the secure environment. Egress Guard brings that check to the agent, as an assistant to human vetters, not a replacement. The same applies wherever small groups appear in data: HR, education, finance.
 
 A policy-driven guard for what leaves a Hermes agent. It runs as plain Python hooks,
 **outside the model**, so it behaves the same on a small local model as on a frontier one.
