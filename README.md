@@ -1,5 +1,7 @@
 # Egress Guard
 
+**Why.** AI agents leak data by accident, not malice. Asked to summarize a clinic dataset for a colleague, an agent may include a table showing three patients in a small town (enough for neighbours to work out who they are), upload the raw file to a paste site to "share" it, or paste an API key into a command. Everything that leaves the agent (commands, uploads, messages, replies) is *egress*. Egress Guard checks it in code, outside the model, before it leaves, so the protection doesn't depend on the model remembering the rules.
+
 A policy-driven guard for what leaves a Hermes agent. It runs as plain Python hooks,
 **outside the model**, so it behaves the same on a small local model as on a frontier one.
 A prompt can ask a model to behave. A plugin can enforce it.
