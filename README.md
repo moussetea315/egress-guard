@@ -35,6 +35,9 @@ on, 4 of 4 showed raw values with it off. All data is synthetic.
 
 Solving the visible row and column totals, an attacker can only tell that the hidden 3 is somewhere between 0 and 10.
 
+To try it yourself, [`demo_data/`](demo_data) has the synthetic CSV, the cross-tab above and `make_demo_data.py`, the script
+that generated them (fixed seed, writes to the current directory).
+
 ## How it works
 
 | Hermes hook | What Egress Guard does |
@@ -196,11 +199,16 @@ Smaller strings in the same call are still scanned. This keeps every hook well i
 
 ## Install
 
-From the Hermes Marketplace, or manually:
+```
+hermes plugins install moussetea315/egress-guard --enable
+hermes plugins doctor egress-guard    # should report 3 hooks
+```
 
-1. Put this folder at `~/.hermes/plugins/egress-guard/`.
-2. Add `egress-guard` to `plugins.enabled` in `~/.hermes/config.yaml`.
-3. Check it with `hermes plugins doctor egress-guard` (it should report 3 hooks).
+Once the Hermes plugin catalog update reaches your Hermes version, `hermes plugins install egress-guard` works too.
+To install manually instead, put this folder at `~/.hermes/plugins/egress-guard/` and add `egress-guard` to `plugins.enabled`
+in `~/.hermes/config.yaml`.
+
+To turn it off: `hermes plugins disable egress-guard`.
 
 Requires Hermes Agent 0.22.2 or newer (the only version tested) and PyYAML.
 
@@ -254,6 +262,10 @@ Disclosures for catalog rule 13:
 - Overhead: about 0.05 ms for a command, about 0.2 ms for a small table, about 10 ms for the 800-row demo CSV (29 KB).
 - Worst case: about 3 seconds per MB of input, measured on inputs just under the 1 MB scan cap built to be as slow as possible
   (for example a CSV with almost 400,000 small cells). Larger strings are not scanned (see `max_scan_bytes`).
+
+## Feedback
+
+False positives, missed detections or setup problems: please open an issue on this repository.
 
 ## License
 
