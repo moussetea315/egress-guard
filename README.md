@@ -21,6 +21,8 @@ It also notes record-level tables (microdata) in its audit log, and adds a `/gua
 
 ## Demo
 
+**Video:** https://x.com/mornek315/status/2119932918122594767
+
 A cross-tab of 800 synthetic records, copied by a local `qwen2.5:7b` model through Hermes. Same prompt, plugin off then on
 (demo policy that also hides small cells from tool results, see [Policies](#policies)):
 
